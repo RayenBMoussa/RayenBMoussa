@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently pursuing a bachelor in Software Engineering
+- 🔭 I’m in my final 3rd year
+- 🌱 I’m currently learning Kotlin
+- 👯 I’m looking to start learning Javascript next
 <!--
 **RayenBMoussa/RayenBMoussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
