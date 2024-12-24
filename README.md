@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m completed a bachelor in software engineering in Tunisia
+- 🔭 I completed a bachelor in software engineering in Tunisia
 - 🔭 Now I'm starting a 2 year CST program in BCIT in Vancouver
 - 🌱 I’m currently learning Spring Boot
 - 👯 I’m planning to learn more technologies related to QA testing.
