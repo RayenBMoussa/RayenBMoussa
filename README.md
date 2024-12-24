@@ -1,8 +1,8 @@
 ### Hi there 👋
-- 🔭 I’m currently pursuing a bachelor in Software Engineering
-- 🔭 I’m in my final 3rd year
-- 🌱 I’m currently learning Kotlin
-- 👯 I’m looking to start learning Javascript next
+- 🔭 I’m completed a bachelor in software engineering in Tunisia
+- 🔭 Now I'm starting a 2 year CST program in BCIT in Vancouver
+- 🌱 I’m currently learning Spring Boot
+- 👯 I’m planning to learn more technologies related to QA testing.
 <!--
 **RayenBMoussa/RayenBMoussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
